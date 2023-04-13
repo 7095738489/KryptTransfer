@@ -2,6 +2,30 @@
  
 ### Implementation Video link: https://drive.google.com/file/d/14y00VfxVBYLGjxCNbQpJ5SMUHbpQlEPb/view?usp=sharing
 
+### Introduction.
+
+Krypt is a Blockchain based Decentralized WebApp used for peer2peer ethereum currency transfer 
+Tech Stack:-Reactjs,CSS,Solidity,NodeJs,Giphy Api
+
+### Description
+
+=>Create MetaMask Account
+Create a MetaMask Account and select network here we used sepolia ethereum for free test ethers 
+
+=> Connect Wallet
+Connect the metamask wallet by clicking on connect wallet button
+after successful connection youy can see your Address on the colour grid 
+
+=> Transfering Crypto
+ Fill up the Details like beneficiary Address amount, Keyword, Personalized Message and hit send 
+
+=> Authorization
+You will see a pop of metaMask Asking to Confirm Transcation, click confirm 
+
+### "Hurray Transaction Complete"
+
+You can also check your Latest Transactions on the Web
+
 ### Home Page
 <img width="945" alt="image" src="https://user-images.githubusercontent.com/65717302/231820725-ade17112-f829-4cec-b563-2de6ef45fc4d.png">
 
